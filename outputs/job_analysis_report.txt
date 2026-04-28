@@ -1,0 +1,50 @@
+Job Analysis Report
+===================
+
+Job files analysed: 2
+  - job_poster_01.txt
+  - job_poster_02.txt
+
+Skills/keywords detected across job posters:
+  - python
+  - c++
+  - sql
+  - machine learning
+  - deep learning
+  - computer vision
+  - nlp
+  - mlops
+  - agentic ai
+  - llm
+  - prompt engineering
+  - recommender systems
+  - artificial neural networks
+  - neural networks
+  - data preprocessing
+  - feature engineering
+  - model evaluation
+  - tensorflow
+  - pytorch
+  - scikit-learn
+  - pandas
+  - numpy
+  - jupyter
+  - opencv
+  - hugging face
+  - transformers
+  - docker
+  - ci/cd
+  - github actions
+  - github
+  - git
+  - api
+  - rest
+  - flask
+  - fastapi
+  - streamlit
+  - oop
+  - data structures
+  - database
+  - communication
+  - teamwork
+  - problem solving

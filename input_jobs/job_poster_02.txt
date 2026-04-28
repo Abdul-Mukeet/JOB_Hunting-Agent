@@ -1,0 +1,30 @@
+Company: NextGen AI Studio
+Role: Computer Vision / MLOps Intern
+Location: Remote
+
+We are hiring an AI intern to help us ship Computer Vision and NLP models into
+production. You will build small training pipelines, package models with Docker,
+and automate releases through GitHub Actions.
+
+Required Skills:
+- Python (OOP, clean code) and basic C++ familiarity
+- Machine Learning and Deep Learning fundamentals
+- Computer Vision basics with OpenCV / TensorFlow
+- NLP basics (tokenisation, embeddings, Transformers)
+- Git and GitHub workflow (branches, pull requests)
+- Good communication and teamwork
+
+Nice to Have:
+- MLOps exposure: Docker, CI/CD, GitHub Actions
+- Experience serving models via FastAPI / Flask / Streamlit
+- Prompt engineering, LLMs, or Agentic AI side projects
+- Recommender systems or Artificial Neural Networks coursework
+- Any deployed AI portfolio project on GitHub
+
+Responsibilities:
+- Train and evaluate Computer Vision / NLP models on real datasets
+- Containerise models with Docker and wire CI/CD pipelines
+- Expose trained models through REST APIs
+- Collaborate via GitHub pull requests and code reviews
+
+Apply: jobs@nextgenai.example

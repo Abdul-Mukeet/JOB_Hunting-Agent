@@ -1,0 +1,71 @@
+Skill Gap Report
+================
+
+Match Score: 42.86%
+
+Matched Skills:
+  - python
+  - sql
+  - machine learning
+  - prompt engineering
+  - data preprocessing
+  - scikit-learn
+  - pandas
+  - numpy
+  - jupyter
+  - github
+  - git
+  - rest
+  - oop
+  - data structures
+  - database
+  - communication
+  - teamwork
+  - problem solving
+
+Missing Skills (focus areas):
+  - c++
+  - deep learning
+  - computer vision
+  - nlp
+  - mlops
+  - agentic ai
+  - llm
+  - recommender systems
+  - artificial neural networks
+  - neural networks
+  - feature engineering
+  - model evaluation
+  - tensorflow
+  - pytorch
+  - opencv
+  - hugging face
+  - transformers
+  - docker
+  - ci/cd
+  - github actions
+  - api
+  - flask
+  - fastapi
+  - streamlit
+
+Resume Skills Detected:
+  - python
+  - sql
+  - machine learning
+  - prompt engineering
+  - data preprocessing
+  - scikit-learn
+  - pandas
+  - numpy
+  - matplotlib
+  - jupyter
+  - github
+  - git
+  - rest
+  - oop
+  - data structures
+  - database
+  - communication
+  - teamwork
+  - problem solving

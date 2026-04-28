@@ -1,0 +1,110 @@
+Interview Questions
+===================
+
+Technical questions based on job posters:
+  - Explain your understanding of python.
+  - Describe a project where you used python.
+  - Explain your understanding of c++.
+  - Describe a project where you used c++.
+  - Explain your understanding of sql.
+  - Describe a project where you used sql.
+  - Explain your understanding of machine learning.
+  - Describe a project where you used machine learning.
+  - Explain your understanding of deep learning.
+  - Describe a project where you used deep learning.
+  - Explain your understanding of computer vision.
+  - Describe a project where you used computer vision.
+  - Explain your understanding of nlp.
+  - Describe a project where you used nlp.
+  - Explain your understanding of mlops.
+  - Describe a project where you used mlops.
+  - Explain your understanding of agentic ai.
+  - Describe a project where you used agentic ai.
+  - Explain your understanding of llm.
+  - Describe a project where you used llm.
+  - Explain your understanding of prompt engineering.
+  - Describe a project where you used prompt engineering.
+  - Explain your understanding of recommender systems.
+  - Describe a project where you used recommender systems.
+  - Explain your understanding of artificial neural networks.
+  - Describe a project where you used artificial neural networks.
+  - Explain your understanding of neural networks.
+  - Describe a project where you used neural networks.
+  - Explain your understanding of data preprocessing.
+  - Describe a project where you used data preprocessing.
+  - Explain your understanding of feature engineering.
+  - Describe a project where you used feature engineering.
+  - Explain your understanding of model evaluation.
+  - Describe a project where you used model evaluation.
+  - Explain your understanding of tensorflow.
+  - Describe a project where you used tensorflow.
+  - Explain your understanding of pytorch.
+  - Describe a project where you used pytorch.
+  - Explain your understanding of scikit-learn.
+  - Describe a project where you used scikit-learn.
+  - Explain your understanding of pandas.
+  - Describe a project where you used pandas.
+  - Explain your understanding of numpy.
+  - Describe a project where you used numpy.
+  - Explain your understanding of jupyter.
+  - Describe a project where you used jupyter.
+  - Explain your understanding of opencv.
+  - Describe a project where you used opencv.
+  - Explain your understanding of hugging face.
+  - Describe a project where you used hugging face.
+  - Explain your understanding of transformers.
+  - Describe a project where you used transformers.
+  - Explain your understanding of docker.
+  - Describe a project where you used docker.
+  - Explain your understanding of ci/cd.
+  - Describe a project where you used ci/cd.
+  - Explain your understanding of github actions.
+  - Describe a project where you used github actions.
+  - Explain your understanding of github.
+  - Describe a project where you used github.
+  - Explain your understanding of git.
+  - Describe a project where you used git.
+  - Explain your understanding of api.
+  - Describe a project where you used api.
+  - Explain your understanding of rest.
+  - Describe a project where you used rest.
+  - Explain your understanding of flask.
+  - Describe a project where you used flask.
+  - Explain your understanding of fastapi.
+  - Describe a project where you used fastapi.
+  - Explain your understanding of streamlit.
+  - Describe a project where you used streamlit.
+  - Explain your understanding of oop.
+  - Describe a project where you used oop.
+  - Explain your understanding of data structures.
+  - Describe a project where you used data structures.
+  - Explain your understanding of database.
+  - Describe a project where you used database.
+  - Explain your understanding of communication.
+  - Describe a project where you used communication.
+  - Explain your understanding of teamwork.
+  - Describe a project where you used teamwork.
+  - Explain your understanding of problem solving.
+  - Describe a project where you used problem solving.
+
+HR and behavioural questions:
+  - Tell me about yourself.
+  - Why are you interested in this role?
+  - Describe your best academic or project work.
+  - What are your strengths and weaknesses?
+  - Why should we select you?
+  - Tell me about a time you handled a difficult teammate.
+
+Questions inspired by your knowledge-base notes:
+  - How would you discuss this in an interview: "FILE: interview_preparation_notes.txt"?
+  - How would you discuss this in an interview: "Interview Preparation Notes"?
+  - How would you discuss this in an interview: "==========================="?
+  - How would you discuss this in an interview: "Revise Python basics: data types, loops, functions, OOP."?
+  - How would you discuss this in an interview: "Understand the difference between supervised and unsupervised learning."?
+  - How would you discuss this in an interview: "Be able to explain overfitting, underfitting, and how to avoid them."?
+  - How would you discuss this in an interview: "Know how to clean data using Pandas (missing values, duplicates)."?
+  - How would you discuss this in an interview: "Understand basic SQL: SELECT, JOIN, GROUP BY, WHERE."?
+  - How would you discuss this in an interview: "Be ready to whiteboard a small problem (e.g., reverse a string)."?
+  - How would you discuss this in an interview: "Use the STAR method: Situation, Task, Action, Result."?
+  - How would you discuss this in an interview: "Quantify impact whenever possible (e.g., improved accuracy by 8%)."?
+  - How would you discuss this in an interview: "Be honest about what you did vs. what your teammates did."?

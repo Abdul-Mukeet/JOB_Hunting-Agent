@@ -1,0 +1,28 @@
+Interview Preparation Notes
+===========================
+
+Technical Preparation
+- Revise Python basics: data types, loops, functions, OOP.
+- Understand the difference between supervised and unsupervised learning.
+- Be able to explain overfitting, underfitting, and how to avoid them.
+- Know how to clean data using Pandas (missing values, duplicates).
+- Understand basic SQL: SELECT, JOIN, GROUP BY, WHERE.
+- Be ready to whiteboard a small problem (e.g., reverse a string).
+
+Project Discussion Tips
+- Use the STAR method: Situation, Task, Action, Result.
+- Quantify impact whenever possible (e.g., improved accuracy by 8%).
+- Be honest about what you did vs. what your teammates did.
+- Mention what you learned and what you would improve.
+
+Behavioral and HR Questions
+- Tell me about yourself.
+- Why should we hire you?
+- What are your strengths and weaknesses?
+- Describe a challenge you faced and how you handled it.
+- Where do you see yourself in 3 years?
+
+Closing the Interview
+- Always prepare 2-3 questions to ask the interviewer.
+- Thank the interviewer and ask about next steps.
+- Send a short thank-you email within 24 hours.

@@ -1,0 +1,45 @@
+Name: Ali Raza
+Email: ali.raza@example.com
+GitHub: github.com/aliraza-sample
+Phone: +92-300-0000000
+
+PROFILE
+Final-year Computer Science student passionate about Artificial Intelligence and
+backend development. Comfortable with Python, data analysis, and building small
+end-to-end projects with documentation.
+
+EDUCATION
+B.S. Computer Science, XYZ University (2022 - 2026)
+Relevant Courses: Data Structures, OOP, Databases, Machine Learning, AI Lab
+
+TECHNICAL SKILLS
+- Languages: Python, SQL, basic JavaScript
+- Libraries: Pandas, NumPy, scikit-learn, Matplotlib
+- Tools: Git, GitHub, Jupyter, VS Code
+- Concepts: OOP, Machine Learning basics, Database design, Problem solving
+- Soft Skills: Communication, teamwork, time management
+
+PROJECTS
+1. Student Performance Predictor
+   - Built a Python ML pipeline using Pandas and scikit-learn.
+   - Performed data preprocessing and trained a logistic regression model.
+   - Documented the work on GitHub with a clean README.
+
+2. Personal Portfolio Website
+   - Designed a static portfolio using HTML and CSS.
+   - Hosted on GitHub Pages.
+
+3. Library Management Console App
+   - Implemented OOP classes in Python with SQLite database.
+
+EXPERIENCE
+- Volunteer, University AI Society (2024 - present)
+  Helped organize workshops on Python and prompt engineering.
+
+CERTIFICATIONS
+- Python for Everybody (Coursera)
+- Git and GitHub Basics
+
+INTERESTS
+Reading AI blogs, contributing to small open-source projects, and preparing
+for technical interviews.

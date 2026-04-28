@@ -1,0 +1,20 @@
+Dear ABC Tech Solutions Hiring Team,
+
+I am writing to apply for the Junior AI Engineer Intern position. I am Abdul Mukeet, a final-year
+BS Artificial Intelligence student at FAST National University with hands-on experience in
+python, sql, machine learning, prompt engineering, data preprocessing. I am excited by the opportunity to contribute to ABC Tech Solutions while
+continuing to grow alongside senior AI engineers.
+
+Through coursework in Machine Learning, Computer Vision, NLP and MLOps, an AI
+internship at Tech Solutions Pvt. Ltd., and projects such as YAAP (real-time
+voice/text app with translation and emotion-aware interaction) and an Applied
+Recommendation System, I have practised the full ML workflow: data preprocessing,
+model training and evaluation, and deployment with Docker and CI/CD pipelines.
+
+I would welcome the chance to discuss how my AI background fits the Junior AI Engineer Intern role
+at ABC Tech Solutions. Thank you for considering my application.
+
+Sincerely,
+Abdul Mukeet
+mukeet0123@gmail.com | +92 307 7447779
+Faisalabad, Pakistan

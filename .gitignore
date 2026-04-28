@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor
+.vscode/
+.idea/
+
+# Agent runtime artifacts (uncomment if you don't want to commit them)
+# outputs/
+# tracker/

@@ -1,0 +1,7 @@
+Application Dashboard
+=====================
+
+Total applications: 2
+
+  Applied                1
+  Interview Scheduled    1

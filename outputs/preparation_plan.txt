@@ -1,0 +1,10 @@
+7-Day Preparation Plan
+======================
+
+Day 1 (2026-04-28): Deep dive into 'c++'. Build a tiny demo and add it to GitHub. Write 3 interview answers about it.
+Day 2 (2026-04-29): Deep dive into 'deep learning'. Build a tiny demo and add it to GitHub. Write 3 interview answers about it.
+Day 3 (2026-04-30): Deep dive into 'computer vision'. Build a tiny demo and add it to GitHub. Write 3 interview answers about it.
+Day 4 (2026-05-01): Deep dive into 'nlp'. Build a tiny demo and add it to GitHub. Write 3 interview answers about it.
+Day 5 (2026-05-02): Deep dive into 'mlops'. Build a tiny demo and add it to GitHub. Write 3 interview answers about it.
+Day 6 (2026-05-03): Deep dive into 'agentic ai'. Build a tiny demo and add it to GitHub. Write 3 interview answers about it.
+Day 7 (2026-05-04): Deep dive into 'llm'. Build a tiny demo and add it to GitHub. Write 3 interview answers about it.

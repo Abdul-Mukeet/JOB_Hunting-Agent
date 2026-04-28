@@ -1,0 +1,36 @@
+Company: ABC Tech Solutions
+Role: Junior AI / Machine Learning Engineer Intern
+Location: Lahore, Pakistan (Hybrid)
+Duration: 6 months (with possible full-time conversion)
+
+About the Role:
+We are looking for a passionate Junior AI / Machine Learning Engineer Intern to
+join our growing AI team. You will work alongside senior engineers on real-world
+projects involving data preprocessing, feature engineering, model training,
+evaluation, and deployment of ML services through REST APIs.
+
+Required Skills:
+- Strong Python programming skills (OOP, clean code, data structures)
+- Solid understanding of Machine Learning fundamentals and model evaluation
+- Hands-on experience with Pandas, NumPy, Scikit-learn, and Jupyter notebooks
+- Familiarity with Deep Learning using TensorFlow or PyTorch
+- Git and GitHub for version control and collaboration
+- SQL and database basics
+- Good problem solving, communication, and teamwork skills
+
+Nice to Have:
+- Exposure to Computer Vision (OpenCV) or NLP / Transformers (Hugging Face)
+- MLOps basics: Docker containers and CI/CD pipelines (GitHub Actions)
+- Prompt engineering / LLM and Agentic AI experience
+- Experience exposing models via Flask, FastAPI, or Streamlit
+- Recommender systems or Artificial Neural Networks coursework / projects
+
+Responsibilities:
+- Build data preprocessing and feature-engineering pipelines
+- Train, evaluate, and iterate on ML / DL models on company datasets
+- Containerise ML workflows with Docker and automate them via CI/CD
+- Document code and maintain GitHub repositories
+- Present weekly progress to the AI team
+
+How to Apply:
+Send your resume and GitHub link to careers@abctech.example

@@ -1,0 +1,5 @@
+Sample Job Poster
+=================
+Role: Data Analyst Intern
+Company: Sample Co.
+Skills: Python, SQL, Pandas, communication, problem solving

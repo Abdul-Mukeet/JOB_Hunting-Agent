@@ -1,0 +1,10 @@
+Application Reminders
+=====================
+Generated: 2026-04-28T14:10:12
+
+Upcoming
+- [APP-001] INTERVIEW with ABC Tech Solutions (Junior AI Engineer Intern) on 2026-05-01 — in 3 days (this week).
+    Next action: Revise Python and ML basics; rehearse project explanation
+- [APP-002] Follow up with NextGen Web Studio (Frontend Developer Intern) on 2026-05-03 — in 5 days (this week).
+    Next action: Polish portfolio website and send follow-up email
+

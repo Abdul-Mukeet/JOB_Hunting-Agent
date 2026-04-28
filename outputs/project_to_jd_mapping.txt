@@ -1,0 +1,21 @@
+Project-to-JD Mapping
+=====================
+
+- 1. Student Performance Predictor
+    (Consider rewriting to highlight JD keywords.)
+- - Built a Python ML pipeline using Pandas and scikit-learn.
+    Supports JD skills: python, scikit-learn, pandas
+- - Performed data preprocessing and trained a logistic regression model.
+    Supports JD skills: data preprocessing
+- - Documented the work on GitHub with a clean README.
+    Supports JD skills: github, git
+- 2. Personal Portfolio Website
+    (Consider rewriting to highlight JD keywords.)
+- - Designed a static portfolio using HTML and CSS.
+    (Consider rewriting to highlight JD keywords.)
+- - Hosted on GitHub Pages.
+    Supports JD skills: github, git
+- 3. Library Management Console App
+    (Consider rewriting to highlight JD keywords.)
+- - Implemented OOP classes in Python with SQLite database.
+    Supports JD skills: python, sql, oop, database

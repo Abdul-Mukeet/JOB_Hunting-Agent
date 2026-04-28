@@ -1,0 +1,81 @@
+Tailored Resume Suggestions
+===========================
+
+Resume Quality Score: 100/100
+
+Tailor your resume around these job keywords:
+  - Add or strengthen evidence of 'python'.
+  - Add or strengthen evidence of 'c++'.
+  - Add or strengthen evidence of 'sql'.
+  - Add or strengthen evidence of 'machine learning'.
+  - Add or strengthen evidence of 'deep learning'.
+  - Add or strengthen evidence of 'computer vision'.
+  - Add or strengthen evidence of 'nlp'.
+  - Add or strengthen evidence of 'mlops'.
+  - Add or strengthen evidence of 'agentic ai'.
+  - Add or strengthen evidence of 'llm'.
+  - Add or strengthen evidence of 'prompt engineering'.
+  - Add or strengthen evidence of 'recommender systems'.
+  - Add or strengthen evidence of 'artificial neural networks'.
+  - Add or strengthen evidence of 'neural networks'.
+  - Add or strengthen evidence of 'data preprocessing'.
+  - Add or strengthen evidence of 'feature engineering'.
+  - Add or strengthen evidence of 'model evaluation'.
+  - Add or strengthen evidence of 'tensorflow'.
+  - Add or strengthen evidence of 'pytorch'.
+  - Add or strengthen evidence of 'scikit-learn'.
+  - Add or strengthen evidence of 'pandas'.
+  - Add or strengthen evidence of 'numpy'.
+  - Add or strengthen evidence of 'jupyter'.
+  - Add or strengthen evidence of 'opencv'.
+  - Add or strengthen evidence of 'hugging face'.
+  - Add or strengthen evidence of 'transformers'.
+  - Add or strengthen evidence of 'docker'.
+  - Add or strengthen evidence of 'ci/cd'.
+  - Add or strengthen evidence of 'github actions'.
+  - Add or strengthen evidence of 'github'.
+  - Add or strengthen evidence of 'git'.
+  - Add or strengthen evidence of 'api'.
+  - Add or strengthen evidence of 'rest'.
+  - Add or strengthen evidence of 'flask'.
+  - Add or strengthen evidence of 'fastapi'.
+  - Add or strengthen evidence of 'streamlit'.
+  - Add or strengthen evidence of 'oop'.
+  - Add or strengthen evidence of 'data structures'.
+  - Add or strengthen evidence of 'database'.
+  - Add or strengthen evidence of 'communication'.
+  - Add or strengthen evidence of 'teamwork'.
+  - Add or strengthen evidence of 'problem solving'.
+
+Suggested resume bullets you can adapt (tuned for Mukeet's AI profile):
+  - Trained and evaluated ML models in Python using Scikit-learn and TensorFlow.
+  - Built data preprocessing and feature-engineering pipelines with Pandas / NumPy.
+  - Applied Computer Vision and NLP techniques on coursework and FYP datasets.
+  - Containerised ML workflows with Docker and automated them via GitHub Actions (CI/CD).
+  - Designed reusable C++ / Python modules using OOP and clean Git workflows.
+
+Skills to learn or highlight before interviewing:
+  - c++
+  - deep learning
+  - computer vision
+  - nlp
+  - mlops
+  - agentic ai
+  - llm
+  - recommender systems
+  - artificial neural networks
+  - neural networks
+  - feature engineering
+  - model evaluation
+  - tensorflow
+  - pytorch
+  - opencv
+  - hugging face
+  - transformers
+  - docker
+  - ci/cd
+  - github actions
+  - api
+  - flask
+  - fastapi
+  - streamlit
